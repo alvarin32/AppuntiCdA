@@ -1,0 +1,40 @@
+\select@language {italian}
+\contentsline {chapter}{\numberline {1}Incipit}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Prima di cominciare bisogna sapere che...}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Insiemistica}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Serie}{6}{subsection.1.1.2}
+\contentsline {chapter}{\numberline {2}Misure}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}La misura degli insiemi elementari}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Misura esterna}{13}{section.2.2}
+\contentsline {section}{\numberline {2.3}Misura di Lebesgue}{15}{section.2.3}
+\contentsline {section}{\numberline {2.4}Insiemi misurabili}{20}{section.2.4}
+\contentsline {section}{\numberline {2.5}Ulteriori concetti sulla misura di Lebesgue}{22}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Misura interna}{22}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Misurabilità degli insiemi illimitati}{23}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Misure complete e assolutamente continue}{24}{subsection.2.5.3}
+\contentsline {chapter}{\numberline {3}Complementi}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Teoria generale della misura}{27}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Prolungamento della misura su semianelli dotati di unità}{31}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}(Complementi)$^2$}{33}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}L'insieme di Cantor}{33}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Misurabilità di un insieme secondo Peano-Jordan}{36}{subsection.3.2.2}
+\contentsline {subsubsection}{Confronto fra la misurabilità di un insieme secondo Peano-Jordan e secondo Lebesgue}{38}{section*.2}
+\contentsline {chapter}{\numberline {4}Funzioni misurabili}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}Un nuovo punto di vista sulle funzioni}{41}{section.4.1}
+\contentsline {section}{\numberline {4.2}Convergenza di funzioni}{46}{section.4.2}
+\contentsline {chapter}{\numberline {5}Integrale di Lebesgue}{53}{chapter.5}
+\contentsline {section}{\numberline {5.1}Definizione dell'integrale}{53}{section.5.1}
+\contentsline {section}{\numberline {5.2}Proprietà dell'integrale}{57}{section.5.2}
+\contentsline {section}{\numberline {5.3}Teoremi di passaggio al limite sotto segno di integrale}{67}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Funzioni integrali parametriche}{72}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Henry Lebesgue vs Bernard Riemann}{74}{section.5.4}
+\contentsline {section}{\numberline {5.5}Misura prodotto. Teoremi di Fubini e Tonelli}{76}{section.5.5}
+\contentsline {chapter}{\numberline {6}Appendice}{85}{chapter.6}
+\contentsline {section}{\numberline {6.1}Misura del conteggio}{85}{section.6.1}
+\contentsline {section}{\numberline {6.2}Usi notevoli di Fubini-Tonelli}{86}{section.6.2}
+\contentsline {section}{\numberline {6.3}Ma cosa cambia se la misura è infinita?}{87}{section.6.3}
+\contentsline {chapter}{\numberline {7}La rivincita di Riemann}{89}{chapter.7}
+\contentsline {section}{\numberline {7.1}Approfondimenti sull'integrale di Riemann}{89}{section.7.1}
+\contentsline {section}{\numberline {7.2}Potenziali}{90}{section.7.2}
+\contentsline {section}{\numberline {7.3}Area di una superficie}{93}{section.7.3}
+\contentsline {section}{\numberline {7.4}$k$-forme}{96}{section.7.4}
